@@ -1,0 +1,10 @@
+#package specification
+#Mon Aug 24 13:05:12 CEST 2015
+MasterMind.MasterMindOnCard-aid=4D4D4F4E43
+MasterMind-aid=6D6D4F6E43
+masktools-version=1.1
+MasterMind-clazzes=MasterMind.IMasterMind MasterMind.CodeBreaker MasterMind.MasterMindOnCard
+jcop-packages=MasterMind
+MasterMind-base=internal
+MasterMind-major=1
+MasterMind-minor=0
